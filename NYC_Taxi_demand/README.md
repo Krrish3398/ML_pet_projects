@@ -20,7 +20,7 @@ In the given notebook we are considering only the yellow taxis for the time peri
 ### Data Collection
 We Have collected all yellow taxi trips data from jan-2015 to dec-2016(Will be using only 2015 data)
 
-![alt text]
+![alt text](https://github.com/Krrish3398/ML_pet_projects/blob/master/NYC_Taxi_demand/data.png)
 
 
 ### ML Problem Formulation
@@ -45,6 +45,8 @@ to see the visulaization you need to install graphviz
 ![alt text](https://github.com/Krrish3398/NYC-Taxi-Demand-Prediction/blob/master/download.png)
 
 ### Time series and Fourier Transforms
+![alt text](https://github.com/Krrish3398/ML_pet_projects/blob/master/NYC_Taxi_demand/ft.png)
+![alt text](https://github.com/Krrish3398/ML_pet_projects/blob/master/NYC_Taxi_demand/ft2.png)
 
 
 
