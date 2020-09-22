@@ -39,10 +39,10 @@ Unlike Pandas, operations on dask.dataframes don't trigger immediate computation
 instead they add key-value pairs to an underlying Dask graph. Note that in the diagram below, circles are operations and rectangles are results.
 to see the visulaization you need to install graphviz
 
-![alt text](https://github.com/Krrish3398/NYC-Taxi-Demand-Prediction/blob/master/mydask.png)
+![alt text](https://github.com/Krrish3398/ML_pet_projects/blob/master/NYC_Taxi_demand/mydask.png)
 
 # Visualising the clusters on a map
-![alt text](https://github.com/Krrish3398/NYC-Taxi-Demand-Prediction/blob/master/download.png)
+![alt text](https://github.com/Krrish3398/ML_pet_projects/blob/master/NYC_Taxi_demand/download.png)
 
 ### Time series and Fourier Transforms
 ![alt text](https://github.com/Krrish3398/ML_pet_projects/blob/master/NYC_Taxi_demand/ft.png)
